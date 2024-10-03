@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-image: url("/Github/img/soccer.jpg"); 
+    display
+}
+
+.backing{
+background-size: cover;
+height: 70%;
+background-image: url("/Github/img/soccer.jpg");
+}
+.content-boxs{
+    display: grid; 
+    grid-template-columns: repeat(4,25%) ;
+    grid-template-rows: 10px 50px auto;
+    grid-column-gap: 10px
+
+}
+.overlay-team{
+    grid-column-start:2;
+    position: fixed; /* Sit on top of the page content */
+    grid-row-start: 2;
+    display: grid;
+    background-color: rgba(255, 255, 255, 0.888);
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+    padding:10px;
+    height: 60px;
+
+}
+
+.overlay-score{
+    grid-column-start:3;
+    grid-row-start: 2;
+    background-color: rgba(255, 255, 255, 0.888);
+    height: 60px
+
+}
