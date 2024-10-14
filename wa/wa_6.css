@@ -7,7 +7,7 @@ body{
 }
 
 .backing{
-background-size: cover;
+background-size:cover;
 height: 70%;
 background-image: url("/Github/img/soccer.jpg");
 }
