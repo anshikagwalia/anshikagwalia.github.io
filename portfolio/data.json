@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Excel Dashboard",
+        "description": "A financial dashboard built in Excel to track and analyze business expenses.",
+        "image": "./assets/images/excel-project.jpg",
+        "link": "#",
+        "tags": ["Excel", "Data Visualization"]
+    },
+    {
+        "title": "Python Automation Script",
+        "description": "A Python script for automating data collection and report generation.",
+        "image": "./assets/images/python-project.jpg",
+        "link": "#",
+        "tags": ["Python", "Automation"]
+    },
+    {
+        "title": "Web Development Portfolio",
+        "description": "A portfolio showcasing projects built with HTML, CSS, and JavaScript.",
+        "image": "./assets/images/web-project.jpg",
+        "link": "#",
+        "tags": ["Web Development", "JavaScript"]
+    }
+]
