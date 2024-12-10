@@ -188,7 +188,11 @@ header nav ul li a:hover {
     color: #4b3f38; /* Dark brown */
     margin-bottom: 0.5em;
 }
-
+.project h4 {
+    font-size: 1.8em;
+    color: #4b3f38; /* Dark brown */
+    margin-bottom: 0.5em;
+}
 .project p {
     margin: 1em 0;
     color: #4b3f38;
